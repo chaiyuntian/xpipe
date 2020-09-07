@@ -6,10 +6,15 @@ collection of utilities, scripts and documents for xanthusmedia
 ### 全自动pipeline设想：
 全自动Pipeline： 
 maya相机路径导出fbx 
+
 -> 上传shotgun 
+
 -> 通知Build machine：下载相关fbx资源然后import 到unreal的sequencer camera track 
+
 -> 上传shotgun +push 新资源到版本控制 
+
 -> 通知渲染machine：同步最新版本 自动渲染shot 上传渲染结果 
+
 -> 合成
 
 
