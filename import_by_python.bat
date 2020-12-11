@@ -1,0 +1,1 @@
+"D:\Software\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor.exe" "D:\UEPROJECTS\ClayBox\ClayBox.uproject" -ExecutePythonScript="S:\Gosh_Project\publicExchange\personal\Johnny\temp\ue_fbx_import.py"
